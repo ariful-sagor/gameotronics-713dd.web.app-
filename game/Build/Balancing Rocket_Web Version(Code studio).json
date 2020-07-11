@@ -1,0 +1,16 @@
+{
+"companyName": "GAMOTRONICS",
+"productName": "Farty Rocket",
+"productVersion": "0.1",
+"dataUrl": "Balancing Rocket_Web Version(Code studio).data.unityweb",
+"wasmCodeUrl": "Balancing Rocket_Web Version(Code studio).wasm.code.unityweb",
+"wasmFrameworkUrl": "Balancing Rocket_Web Version(Code studio).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
